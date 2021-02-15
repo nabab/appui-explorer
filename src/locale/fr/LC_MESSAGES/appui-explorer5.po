@@ -7,23 +7,23 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2020-03-27 14:36+0100\n"
-"POT-Revision-Date: 2020-03-27 14:36+0100\n"
+"POT-Creation-Date: 2021-02-15 01:09+0100\n"
+"POT-Revision-Date: 2021-02-15 01:09+0100\n"
 "Language: fr\n"
-"X-Domain: appui-explorer3\n"
+"X-Domain: appui-explorer\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-explorer/src/mvc/html/test.php
 msgid "qui ancora s"
-msgstr "test translate"
+msgstr ""
 
 #: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-explorer/src/mvc/html/test.php
 msgid "tranlation"
-msgstr "test tadsa"
+msgstr ""
 
 #: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-explorer/src/mvc/html/test.php
 msgid "STOP"
-msgstr "FDSAFADSFA"
+msgstr ""
 
 #: /home/thomas/domains/apstapp.thomas.lan/_appui/vendor/bbn/appui-explorer/src/mvc/html/test.php
 msgid "tranlatiofdasdfasdfan"
