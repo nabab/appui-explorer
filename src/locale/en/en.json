@@ -1,1 +1,5 @@
-{"":{"Stringa":"Stringa"}}
+{
+    "mvc\/test": {
+        "Stringa": "Stringa"
+    }
+}
